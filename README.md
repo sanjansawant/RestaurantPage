@@ -1,5 +1,5 @@
 # RestaurantPage
-Restaurant WebPage Using HTML,CSS AND JS
+Restaurant WebPage Using HTML,CSS, Javascript, Jquery AJAX, JSON AND Twitter Bootstrap Framework
 
 
 
